@@ -1,6 +1,6 @@
 import pandas as pd
 import json
-from typing import List, Dict, Union
+from typing import list, dict, Union
 
 class WeatherAnalysisError(Exception):
     """Custom exception for errors during weather data analysis."""
