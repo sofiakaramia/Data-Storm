@@ -42,14 +42,6 @@ DataStorm/
 │   │   ├── __init__.py
 │   │   ├── fetcher.py
 │   │   └── analyzer.py
-├── tests/
-│   ├── test_fetcher.py
-│   └── test_analyzer.py
-└── src/
-    └── data_storm/
-        ├── __init__.py
-        ├── fetcher.py
-        └── analyzer.py
 ```
 ### Usage Example
 ## Loading and processing data
