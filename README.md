@@ -34,14 +34,12 @@ This project strictly follows the Python packaging standard (src-layout) and Obj
 DataStorm/
 ├── LICENSE
 ├── README.md
-├── setup.cfg
-├── pyproject.toml
 ├── data_storm_demo.ipynb
-├── src/
-│   ├── data_storm/
-│   │   ├── __init__.py
-│   │   ├── fetcher.py
-│   │   └── analyzer.py
+└── src/
+    ├── data_storm/
+    ├── __init__.py
+    ├── fetcher.py
+    └── analyzer.py
 ```
 ### Usage Example
 ## Loading and processing data
